@@ -1,3 +1,4 @@
 #Git/GitHub Session
 
-This is a session on learning git and GitHub
+
+Maybe we will also learn to collaborate
